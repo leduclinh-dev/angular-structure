@@ -1,7 +1,7 @@
 # leduclinh-it
 # AngularTemplate
 
-This project structure folder code angular by lazy load module,
+This project structure folder code angular by lazy load module.
 
 ## Development server
 
