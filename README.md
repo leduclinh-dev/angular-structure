@@ -1,6 +1,7 @@
+# leduclinh-it
 # AngularTemplate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+This project structure folder code angular by lazy load module,
 
 ## Development server
 
