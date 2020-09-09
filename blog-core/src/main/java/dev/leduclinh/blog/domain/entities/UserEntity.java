@@ -30,6 +30,7 @@ public class UserEntity {
     private String role;
     private Boolean passwordChanged;
     private String phone;
+    private String authorities;
 
     public UserEntity(Long id) { this.id = id; }
 
