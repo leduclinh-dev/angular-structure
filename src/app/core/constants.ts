@@ -4,4 +4,4 @@ export const frontendUrl = {
   REGISTER: 'register',
   AUTH: 'auth',
   NOT_FOUND: '**'
-}
+};

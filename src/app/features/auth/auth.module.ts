@@ -11,7 +11,7 @@ const routes: Routes = [
       {path: CONST.frontendUrl.REGISTER, component: RegisterComponent},
       {path: '', redirectTo: CONST.frontendUrl.LOGIN, pathMatch: 'full'}
     ]}
-]
+];
 @NgModule({
   imports: [SharedModule, RouterModule.forChild(routes)],
   exports: [],
